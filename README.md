@@ -55,7 +55,7 @@ while (contador < 5) {
 }
 ```
 
-### 🧪 bucle Para (for):
+### 🧪 Bucle Para (for):
 ```codigo
 for (int i=0; i < 5; i++) {
     System.out.print("Hola Mundo");
