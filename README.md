@@ -1,4 +1,3 @@
-
 # Lógica de Programación - Java 
 ## ¿Qué es la lógica de programación?
 La lógica de programación 🧠💻 es el conjunto de técnicas y métodos usados para resolver problemas de forma estructurada 🧩 y ordenada 📏 a través de instrucciones que una computadora puede ejecutar. Aprender lógica de programación te permite pensar como un programador 👨‍💻👩‍💻, dividir problemas complejos en partes simples 🔍 y diseñar soluciones paso a paso 🚀.
